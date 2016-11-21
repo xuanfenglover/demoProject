@@ -1,3 +1,2 @@
 # demoProject
-My first project in the GitHub
-Hello World!
+My first project in the GitHub!
